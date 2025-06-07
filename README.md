@@ -1,7 +1,26 @@
-# 🤖  안녕하세요. 저는 OOO 입니다. 🐯
+# 📦 프로젝트 이름
+간단한 설명 한 줄 – 이 프로젝트가 어떤 일을 하는지!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<여러분들 gihub 닉네임>&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+---
 
-### Get in Touch
+## 🚀 주요 기능
+- ✅ 기능 1 (한 줄 요약)
+- ✅ 기능 2
+- ✅ 기능 3
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](여러분들 블로그 주소) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<여러분들 linkedin 주소>)](<여러분들 linkedin 주소>)
+---
+
+## 🛠️ 사용 기술
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+
+---
+
+## 📂 프로젝트 구조
+```bash
+📁 src
+ ┣ 📁 components
+ ┣ 📁 pages
+ ┣ 📁 utils
+ ┗ 📜 main.js
